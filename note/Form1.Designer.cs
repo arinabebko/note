@@ -33,9 +33,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(266, 136);
+            this.button1.Location = new System.Drawing.Point(182, 141);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(238, 114);
+            this.button1.Size = new System.Drawing.Size(398, 114);
             this.button1.TabIndex = 0;
             this.button1.Text = "выход";
             this.button1.UseVisualStyleBackColor = true;
@@ -45,7 +45,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Yellow;
+            this.BackColor = System.Drawing.Color.Goldenrod;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
